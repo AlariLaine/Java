@@ -16,3 +16,4 @@ let loigatud = koodid.slice(0, 100);
 console.log(loigatud);
 console.log(koodid.split(" ").length);
 console.log(koodid.split(" "));
+console.log(koodid.split("35482977"));
