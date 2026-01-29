@@ -70,11 +70,11 @@ for (let i = 0; i < temperatures.length; i++) {
 const kuud = months.split(", ");
 
 console.log(
-    "Kõige kõrgem temperatuur oli: " +
+    "K6ige kõrgem temperatuur oli: " +
     maxtemp + "°C " + kuud[kuuk6rgeim]
 );
 
 console.log(
-    "Kõige madalam temperatuur oli: " +
+    "K6ige madalam temperatuur oli: " +
     mintemp + "°C " + kuud[kuumadalaim]
 );
